@@ -1,0 +1,4 @@
+bag_uri : '/home/krri/SSD/2020-11_bags/2020-11-12-19-29-10.bag'
+output_dir_name : 'ros1_bag_data'
+camera_topics : ['/camera2/usb_cam2/image_raw','/camera3/usb_cam3/image_raw','/camera4/usb_cam4/image_raw']
+lidar_topics : ['/os1_cloud_node/points']

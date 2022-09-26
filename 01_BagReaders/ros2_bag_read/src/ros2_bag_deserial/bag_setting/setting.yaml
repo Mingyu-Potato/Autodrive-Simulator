@@ -1,0 +1,9 @@
+bag_uri : '/home/krri/rosbag2_2022_09_15-10_41_17/rosbag2_2022_09_15-10_41_17_0.db3'
+output_path : '/home/krri/Desktop'
+lidar_topics : ['/pcl_output_fl', '/pcl_output_fr', '/pcl_output_rl', '/pcl_output_rr']
+cam_topics : ['/compressed_image_frontleft_output', '/compressed_image_frontright_output', '/compressed_image_rearleft_output', '/compressed_image_rearright_output']
+csv_topics : [] #['/ego_pose']
+custom_topics : [] # ['/ObsData']
+option_list : [] # ['f_pose_x','f_pose_y','f_pose_z','f_roll','f_pitch','f_yaw']
+lidar_color : False
+sim_data : False
